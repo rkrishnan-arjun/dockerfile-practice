@@ -1,4 +1,4 @@
-# Author    : Arjun rRadhakrishnan
+# Author    : Arjun Radhakrishnan
 # Date      : 9th Dec 2022
 
 FROM jupyter/scipy-notebook:latest
